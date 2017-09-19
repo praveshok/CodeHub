@@ -2,3 +2,6 @@
 Here Details will come.
 java
 python
+
+angular js
+node js
